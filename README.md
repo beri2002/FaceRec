@@ -25,15 +25,3 @@ To run the application, follow these steps:
 1. Navigate to the project directory.
 2. Run the following command:
 3. python face_detection.py
-
-### Version 1.1.0 (To Be Done)
-In version 1.1.0, the following enhancements are planned:
-
- - Implement deep learning methods for face detection.
-
-### Version 1.2.0 (To Be Done)
-In version 1.2.0, the following enhancements are planned:
-
- - Optimize for real-time performance on lightweight computers such as Jetson.
-
-Stay tuned for updates!

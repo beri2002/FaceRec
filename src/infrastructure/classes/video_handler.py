@@ -4,7 +4,7 @@ import cv2
 class VideoHandler(IVideoHandler):
     def __init__(self, videoSource=0):
         self._videoSource = videoSource
-        self._cap = self.get_video() 
+        self._cap = self.get_video()
 
     def get_video(self):
         # Open a video capture object (0 for default camera)
