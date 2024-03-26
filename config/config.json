@@ -1,0 +1,9 @@
+{
+    "VideoHandler":{
+        "videoSource":"/home/yossef/Videos/2.mp4"
+    },
+
+    "FaceDetection":{
+        "CascadeClassifier":"/home/yossef/Documents/PROJECTS/FaceRec/assets/haarcascade_frontalface_default.xml"
+    }
+}
