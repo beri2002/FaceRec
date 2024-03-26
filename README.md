@@ -15,6 +15,7 @@ To set up the project, follow these steps:
 ```bash
 chmod +x setup.sh
 ./setup.sh
+```
 
 The setup script will guide you through the process of downloading and building OpenCV with extra modules on your Ubuntu OS. Adjust the versions and paths as needed for your specific requirements.
 
